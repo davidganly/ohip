@@ -1,0 +1,70 @@
+{
+  "hotelInventories": [
+    {
+      "roomClassInventories": [
+        {
+          "sequence": 0,
+          "code": "string",
+          "inventoryCounts": [
+            {
+              "availableTentativeCount": 0,
+              "availableCount": 0,
+              "endDate": "2019-08-24",
+              "available": true,
+              "startDate": "2019-08-24"
+            }
+          ]
+        }
+      ],
+      "roomTypeInventories": [
+        {
+          "sequence": 0,
+          "code": "string",
+          "inventoryCounts": [
+            {
+              "availableTentativeCount": 0,
+              "availableCount": 0,
+              "endDate": "2019-08-24",
+              "available": true,
+              "startDate": "2019-08-24"
+            }
+          ]
+        }
+      ],
+      "houseInventory": [
+        {
+          "availableTentativeCount": 0,
+          "availableCount": 0,
+          "endDate": "2019-08-24",
+          "available": true,
+          "startDate": "2019-08-24"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "recordId": "string",
+      "code": "string",
+      "shortText": "string",
+      "docURL": "string",
+      "language": "string",
+      "tag": "string",
+      "rph": "string",
+      "type": "string",
+      "value": "string",
+      "status": "string"
+    }
+  ],
+  "links": [
+    {
+      "targetSchema": "string",
+      "templated": false,
+      "method": "DELETE",
+      "rel": "string",
+      "operationId": "string",
+      "href": "string",
+      "title": "string"
+    }
+  ]
+}
